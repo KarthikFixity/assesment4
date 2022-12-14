@@ -1,0 +1,13 @@
+C:\Users\chowd\source\repos\Assesment4\Assesment4\bin\Debug\Assesment4.exe.config
+C:\Users\chowd\source\repos\Assesment4\Assesment4\bin\Debug\Assesment4.exe
+C:\Users\chowd\source\repos\Assesment4\Assesment4\bin\Debug\Assesment4.pdb
+C:\Users\chowd\source\repos\Assesment4\Assesment4\obj\Debug\Assesment4.csproj.AssemblyReference.cache
+C:\Users\chowd\source\repos\Assesment4\Assesment4\obj\Debug\Assesment4.csproj.SuggestedBindingRedirects.cache
+C:\Users\chowd\source\repos\Assesment4\Assesment4\obj\Debug\Assesment4.Properties.Resources.resources
+C:\Users\chowd\source\repos\Assesment4\Assesment4\obj\Debug\Assesment4.Task1.resources
+C:\Users\chowd\source\repos\Assesment4\Assesment4\obj\Debug\Assesment4.csproj.GenerateResource.cache
+C:\Users\chowd\source\repos\Assesment4\Assesment4\obj\Debug\Assesment4.csproj.CoreCompileInputs.cache
+C:\Users\chowd\source\repos\Assesment4\Assesment4\obj\Debug\Assesment4.exe
+C:\Users\chowd\source\repos\Assesment4\Assesment4\obj\Debug\Assesment4.pdb
+C:\Users\chowd\source\repos\Assesment4\Assesment4\obj\Debug\Assesment4.Task3.resources
+C:\Users\chowd\source\repos\Assesment4\Assesment4\obj\Debug\Assesment4.Task2.resources
